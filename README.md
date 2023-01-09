@@ -1,2 +1,2 @@
 # Test
-Test Repo command for understan about git
+Test Repo command for understand about git.
